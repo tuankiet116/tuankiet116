@@ -2,8 +2,6 @@
 <h3 align="center">A fullstack web developer. Who is fall in love with coding.</h3>
 
 - 📫 How to reach me **kietdat1612000@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
