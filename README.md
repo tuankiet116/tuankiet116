@@ -1,4 +1,6 @@
-<strong>Hello there, </strong> I am a passionate self-taught fullstack developer and a freelance software engineer from Vietnam. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+# 👋 Hi, friend!
+<strong>Hello there, </strong> I am a passionate self-taught fullstack developer and a Shopify developer from Vietnam. 
+My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/tuankiet1161/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tu%E1%BA%A5n-ki%E1%BB%87t-%C4%91%E1%BB%97-700708202/) 
@@ -9,6 +11,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=tuankiet116&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tuankiet116&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tuankiet116&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=tuankiet116&theme=radical)
 
 ### 😂Random Dev Meme
 <img src="https://i.imgflip.com/58eyvu.png" width="512px"/>
