@@ -18,4 +18,3 @@ My passion for software lies with dreaming up ideas and making them come true wi
 <img src="https://i.imgflip.com/58eyvu.png" width="512px"/>
 
 ---
-![Visitors](https://visit-count.vercel.app/api/count?id=tuankiet116)
